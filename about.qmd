@@ -1,0 +1,46 @@
+---
+title: leonhard volz
+about: 
+    id: hero-heading
+    template: jolla
+    image: assets/profile.jpg
+    links:
+      - icon: github
+        text: Github
+        href: https://github.com/levolz
+      - icon: linkedin
+        text: LinkedIn
+        href: https://www.linkedin.com/in/leonhard-volz-9b8a1a1b2/
+      - text: "{{< iconify fa6-brands:google-scholar >}} Google Scholar"
+        href: https://scholar.google.com/citations?user=IRM3zPcAAAAJ
+---
+:::{#hero-heading}
+Leonhard Volz is a data manager at the University of Tilburg on the Vidi-project on machine learning-informed theory construction in social science, as part of the [INSIGHT lab](https://cjvanlissa.github.io/insight_lab) under the auspices of [Caspar van Lissa](https://cjvanlissa.github.io/).
+
+Previously part of the [Theory Methods Lab](https://www.theorymethodslab.com/) and the [AMPL Lab](https://www.ampl-psych.com/) at the University of Amsterdam, and the [Educational Psychology Group](https://bildung-psy.univie.ac.at/en/) at the University of Vienna. 
+My research focuses on the development and application of methods for formalizing theories in the social sciences (and psychology in particular), and meta-scientific questions related to their use in research practice. 
+
+{{< iconify pepicons-pop:pen-circle-filled >}}  Currently working on developing and benchmarking causal discovery algorithms for partially automated theory construction and a community database of formalized theories in the social sciences.
+
+:::
+
+# resume
+
+## education
+Research Master (Psychology) | University of Amsterdam | 2025
+
+Bachelor (Psychology) | University of Vienna | 2020
+
+## experience
+Data Manager | University of Tilburg | 2025 - present
+
+Research & Teaching Assistant | University of Amsterdam | 2020 - 2025
+
+Student Assistant | University of Vienna | 2018 - 2020
+
+## skills
+Statistical Analysis | R, Python
+
+Data Management | SQL, Git
+
+Web Development | HTML, CSS, JavaScript

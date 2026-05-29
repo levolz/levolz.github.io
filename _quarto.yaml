@@ -1,0 +1,44 @@
+project:
+    type: website
+    output-dir: docs
+    preview:
+      port: 5607
+
+website:
+  favicon: filter-circle-full
+  title: leonhard volz
+  navbar:
+    left:
+      - text: About me
+        href: about.qmd
+      - text: Projects
+        href: projects.qmd
+      - text: Initiatives
+        href: initiatives.qmd
+    right:
+      - icon: github
+        href: https://github.com/levolz
+  announcement: 
+    icon: info-circle
+    dismissable: true
+    content: Website under construction. Please check back later for more information.
+    type: primary
+    position: below-navbar
+
+  page-footer: 
+    center:
+      - text: "© 2026 Leonhard Volz. All rights reserved."
+
+
+
+format:
+  html:
+    theme:   
+      dark: [cosmo, assets/theme-dark.scss]
+      light: [cosmo, assets/theme.scss]
+    respect-user-color-scheme: true
+    css: assets/styles.css
+    toc: true
+
+
+editor: source

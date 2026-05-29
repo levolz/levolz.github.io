@@ -1,0 +1,13 @@
+---
+title: leonhard volz
+subtitle: "data manager | methodologist | scientific software developer"
+format: html
+---
+
+{{< iconify fa7-solid:fast-forward >}} A fusion between a statistician, psychologist, and scientific software developer.
+
+My work revolves around developing and applying methods for psychological research, specifically focussing on formal accounts of psychological processes.
+
+Find my main (research) projects under [projects](projects.qmd), and initiatives that I am or was involved in on the [initiatives](initiatives.qmd) page.
+
+Besides my work, I like to spend my time physically active --- mostly bouldering and playing handball --- or exploring museums, cafés, and the outdoors.

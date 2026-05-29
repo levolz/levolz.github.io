@@ -1,0 +1,4 @@
+---
+title: Journal of European Psychology Students (JEPS)
+format: html
+---
